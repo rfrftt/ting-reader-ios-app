@@ -10,6 +10,9 @@
 
 **app提供听书的最小化功能实现,其他管理和扩展功能需要使用web端进行管理。**
 
+[去下载TingReader.ipa](https://github.com/rfrftt/ting-reader-ios-app/releases/tag/alpha) 
+
+
 ## 项目简介
 
 本工程是 `ting-reader` 的 iOS 客户端极简实现，围绕“打开即听”的使用方式，提供书库管理、章节浏览、播放控制、进度续听与个性化设置等核心能力。应用界面以简洁、清爽、易读为主，适合作为个人有声书库的移动端入口。
