@@ -76,6 +76,26 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center" width="33.33%">
+      <strong>缓存日志</strong><br />
+      <sub>播放页面的缓存日志查看</sub><br /><br />
+      <img src="./snap/1.PNG" alt=" 1" width="88%" />
+    </td>
+    <td align="center" width="33.33%">
+      <strong>缓存大小配置</strong><br />
+      <sub>缓存大小配置和策略</sub><br /><br />
+      <img src="./snap/2.PNG" alt="2" width="88%" />
+    </td>
+    <td align="center" width="33.33%">
+      <strong>缓存管理</strong><br />
+      <sub>管理和清除本地缓存</sub><br /><br />
+      <img src="./snap/3.PNG" alt="新增截图 3" width="88%" />
+    </td>
+  </tr>
+</table>
+
 ## 适用场景
 
 适合用于：
