@@ -88,7 +88,7 @@
     </td>
     <td align="center" width="33.33%">
       <strong>缓存大小配置</strong><br />
-      <sub>缓存大小配置和策略</sub><br /><br />
+      <sub>缓存大小配置,LRU自动删除</sub><br /><br />
       <img src="./snap/2.PNG" alt="2" width="88%" />
     </td>
     <td align="center" width="33.33%">
