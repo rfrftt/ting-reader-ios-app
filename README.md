@@ -60,14 +60,14 @@
       <img src="./snap/IMG_5104.PNG" alt="章节列表" width="78%" />
     </td>
     <td align="center" width="50%">
-      <strong>播放页</strong><br />
+      <strong>播放页(主题光晕)</strong><br />
       <sub>支持倍速、跳转、定时与片头片尾控制</sub><br /><br />
       <img src="./snap/IMG_5103.PNG" alt="播放页" width="78%" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong>睡眠定时</strong><br />
+      <strong>睡眠定时(主题光晕)</strong><br />
       <sub>内置常用定时选项，适合夜间收听场景</sub><br /><br />
       <img src="./snap/IMG_5105.PNG" alt="睡眠定时" width="78%" />
     </td>
